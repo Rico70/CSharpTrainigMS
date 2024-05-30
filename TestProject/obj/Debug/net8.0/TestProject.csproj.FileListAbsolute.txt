@@ -1,0 +1,14 @@
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/bin/Debug/net8.0/TestProject
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/bin/Debug/net8.0/TestProject.dll
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/TestProject.dll
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Volumes/Stuff/Code/CSharpTrainigMS/TestProject/obj/Debug/net8.0/ref/TestProject.dll
